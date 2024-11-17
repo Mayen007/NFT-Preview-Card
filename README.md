@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/Mayen007/nft-preview-card-component) - View the code on GitHub
-- [Live Site URL](https://your-live-site-url.com) - Check out the live demo
+- [Solution URL](https://github.com/Mayen007/NFT-Preview-Card) - View the code on GitHub
+- [Live Site URL](https://mayen007.github.io/NFT-Preview-Card/) - Check out the live demo
 
 ## My Process
 
